@@ -2,4 +2,5 @@ Learn GitHub
 Youtube: webprogrammingunpas
 
 Lets learn:
-1. VPN Sever Configuration
+1. VPN Sever
+2. Proxy Server
